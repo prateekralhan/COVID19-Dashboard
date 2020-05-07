@@ -20,3 +20,4 @@ __Note: Personal Email IDs won't be accepted for creating an account. Use your i
 
 ![image](https://user-images.githubusercontent.com/29462447/81351769-b44a5380-90e2-11ea-9176-79fe1e662ad1.png)
 
+## Typical View of the Dashboard:
