@@ -18,5 +18,5 @@ __Note: Personal Email IDs won't be accepted for creating an account. Use your i
 (You must be signed in to your PowerBI account.)
 7. You can also access the live Dashboard by scanning this QR Code:
 <p align="center">
-![image](https://user-images.githubusercontent.com/29462447/81351769-b44a5380-90e2-11ea-9176-79fe1e662ad1.png)
+<img src="https://user-images.githubusercontent.com/29462447/81351769-b44a5380-90e2-11ea-9176-79fe1e662ad1.png>
 </p>
