@@ -14,7 +14,7 @@ __Note: Personal Email IDs won't be accepted for creating an account. Use your i
 3. Here the data source settings have already been setup. Just click on **Refresh** in order to refresh the dashboard and get the latest data.
 4. Play around with the report, add/remove filter(s), try to add more visualisations and make it more interesting!!
 5. Click on the **Publish** icon present above to publish the PowerBI report on Web which can be later shared with anyone.
-6. I already have the Dashboard published on web as well but it cannot be shared as I am using the free version **lame**.
+6. I already have the Dashboard published on web as well but it cannot be shared as I am using the free version :expressionless: .
 7. You can also access the live Dashboard by scanning this QR Code:
 
 ![image](https://user-images.githubusercontent.com/29462447/81351769-b44a5380-90e2-11ea-9176-79fe1e662ad1.png)
