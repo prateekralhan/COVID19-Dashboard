@@ -17,9 +17,18 @@ __Note: Personal Email IDs won't be accepted for creating an account. Use your i
 6. I already have the Dashboard published on web as well but it cannot be shared as I am using the free version :expressionless: .
 7. You can also access the live Dashboard by scanning this QR Code:
 
-![image](https://user-images.githubusercontent.com/29462447/81351769-b44a5380-90e2-11ea-9176-79fe1e662ad1.png)
-
 ## Typical View of the Dashboard:
 
-![image](https://user-images.githubusercontent.com/29462447/81352166-7dc10880-90e3-11ea-8250-38521a9722d0.png)
+<p align="center">
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/81351769-b44a5380-90e2-11ea-9176-79fe1e662ad1.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/81351769-b44a5380-90e2-11ea-9176-79fe1e662ad1.png"/> 
+</kbd>
+</p>  
+
+&nbsp;
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/81352166-7dc10880-90e3-11ea-8250-38521a9722d0.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/81352166-7dc10880-90e3-11ea-8250-38521a9722d0.png"/> 
+</kbd>
+
 
