@@ -1,4 +1,5 @@
-# COVID19-Dashboard [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+# COVID19-Dashboard [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 
 With the sudden upsurge of COVID19 across the planet, I implemented a Simple Minimalistic Dashboard using PowerBI for getting a holistic view of the current state COVID19 across different countries. 
 
